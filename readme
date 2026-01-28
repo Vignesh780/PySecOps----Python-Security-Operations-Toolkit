@@ -1,0 +1,4 @@
+PySecOps is a Python-powered Security Operations toolkit built to support modern SOC and SecOps workflows.
+It provides reusable modules and automation scripts for security monitoring, threat hunting, log analysis, incident response, and integration with SIEM/SOAR platforms.
+
+The project aims to simplify security operations by leveraging Python for automation, detection engineering, and operational security tasks.
